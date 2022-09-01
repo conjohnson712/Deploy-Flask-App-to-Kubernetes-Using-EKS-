@@ -18,7 +18,7 @@ docs/_build/
 __pycache__
 .env_file
 notes.txt
-new_user_credentials (2).csv
+new_user_credentials.csv
 Admin_accessKeys.csv
 
 # Coverage reports
