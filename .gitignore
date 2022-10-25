@@ -20,6 +20,8 @@ __pycache__
 notes.txt
 new_user_credentials.csv
 Admin_accessKeys.csv
+troubleshooting_resources.txt
+Deploy_Admin_accessKeys.csv
 
 # Coverage reports
 htmlcov/
